@@ -1,0 +1,8 @@
+2026-03-28 18:03:43,551 - INFO - {}
+2026-03-28 18:14:29,023 - ERROR - {}
+2026-03-28 18:16:23,936 - ERROR - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-03-28 18:17:16,365 - ERROR - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-03-28 18:20:23,874 - ERROR - {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-03-28 18:39:29,827 - ERROR - {'error': "APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only)."}
+2026-03-28 20:45:30,432 - INFO - {'orderId': 13002406980, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ13ea4984ef47e13080b2c8', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1774710929485}
+2026-03-28 20:46:23,301 - INFO - {'orderId': 13002408305, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJe541462b18a336fdc25fd6', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1774710982317}
